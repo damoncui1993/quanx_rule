@@ -1,0 +1,22 @@
+# quanx_rule
+DOMAIN,api-a.soulapp.cn
+DOMAIN,api-account.soulapp.cn
+DOMAIN,api-chat.soulapp.cn
+DOMAIN,api-pay.soulapp.cn
+DOMAIN,api-ucc.soulapp.cn
+DOMAIN,api-user.soulapp.cn
+DOMAIN,chat-live.soulapp.cn
+DOMAIN,china-img.soulapp.cn
+DOMAIN,data-collector.soulapp.cn
+DOMAIN,fingerprint.soulapp.cn
+DOMAIN,gateway-mobile-gray.soulapp.cn
+DOMAIN,group-message.soulapp.cn
+DOMAIN,increase-openapi.soulapp.cn
+DOMAIN,insight.soulapp.cn
+DOMAIN,media-service.soulapp.cn
+DOMAIN,open-platform-portal.soulapp.cn
+DOMAIN,photon-open-api.soulapp.cn
+DOMAIN,post.soulapp.cn
+DOMAIN,route-service.soulapp.cn
+DOMAIN,soul-permanent.soulapp.cn
+DOMAIN,ssp.soulapp.cn
